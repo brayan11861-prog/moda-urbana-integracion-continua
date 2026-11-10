@@ -48,9 +48,9 @@ Los dos contenedores se comunican mediante una red interna administrada por Dock
 
 Para construir y ejecutar los contenedores, se utiliza el siguiente comando:
 
-```bash
+
 docker compose up --build
-```
+
 
 Este comando construye la imagen de la aplicación, inicia MySQL y ejecuta la aplicación Java cuando la base de datos está disponible.
 
