@@ -23,7 +23,7 @@ pipeline {
             }
         }
     }
-
+    
     post {
         success {
             echo 'MODA URBANA: Integracion continua exitosa.'
